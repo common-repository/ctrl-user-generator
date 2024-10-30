@@ -1,0 +1,104 @@
+{
+  "users": {
+    "1": {
+      "email": "hansolo@starwars.wp",
+      "name": "Han Solo",
+      "username": "hansolo"
+    },
+    "2": {
+      "email": "Leia@msn.wp",
+      "name": "Leia Organa",
+      "username": "leiaorgana"
+    },
+    "3": {
+      "email": "d.vader@darknet.wp",
+      "name": "Darth vader",
+      "username": "darthvader"
+    },
+    "4": {
+      "email": "luke@gmail.wp",
+      "name": "Luke Skywalker",
+      "username": "lukeskywalker"
+    },
+    "5": {
+      "email": "chewbacca@gmail.wp",
+      "name": "Chewbacca",
+      "username": "chewbacca"
+    },
+    "6": {
+      "email": "b.fett@gmail.wp",
+      "name": "Boba Fett",
+      "username": "boba"
+    },
+    "7": {
+      "email": "obi1k@hotmail.wp",
+      "name": "Obi-Wan Kenobi",
+      "username": "obiwan"
+    },
+    "8": {
+      "email": "rey19@starwars.wp",
+      "name": "Rey",
+      "username": "rey"
+    },
+    "9": {
+      "email": "Yoda@yahoo.wp",
+      "name": "Yoda",
+      "username": "yoda"
+    },
+    "10": {
+      "email": "darths82@gmail.wp",
+      "name": "Darth Sidious",
+      "username": "sidious"
+    },
+    "11": {
+      "email": "r2d2@gmail.wp",
+      "name": "R2-D2",
+      "username": "r2d2"
+    },
+    "12": {
+      "email": "c-3po@gmail.wp",
+      "name": "C-PO",
+      "username": "Threepio"
+    },
+    "13": {
+      "email": "kren@msn.wp",
+      "name": "Kylo Ren",
+      "username": "Kylo"
+    },
+    "14": {
+      "email": "d.maul@outlook.wp",
+      "name": "Darth Maul",
+      "username": "maul"
+    },
+    "15": {
+      "email": "finn@gmail.wp",
+      "name": "Finn",
+      "username": "Finn"
+    },
+    "16": {
+      "email": "j.hutt@starwars.wp",
+      "name": "Jabba de Hutt",
+      "username": "Jabba"
+    },
+    "17": {
+      "email": "poe.d@yahoo.co.wp",
+      "name": "Poe Dameron",
+      "username": "Poe"
+    },
+    "18": {
+      "email": "calrissian@wordpress.wp",
+      "name": "Lando Calrissian",
+      "username": "lando"
+    },
+    "19": {
+      "email": "padme@outlook.wp",
+      "name": "Padme Amidala",
+      "username": "padme"
+    },
+    "20": {
+      "email": "ackbar010@gmail.wp",
+      "name": "Ackbar",
+      "username": "ackbar"
+    }
+  }
+}
